@@ -1,7 +1,7 @@
 
 # Eyachir Arafat
 ## Web Developer
-![Web Developer](https://avatars.githubusercontent.com/u/177961704?v=4))
+![Web Developer](https://media.licdn.com/dms/image/D4E22AQFjszpViA0Cng/feedshare-shrink_800/0/1723284875849?e=1726099200&v=beta&t=ELoBRKv9pRzjRwoxrkONgaNGQeFT2tFqf-P96ZxDCC8))
 
 I am a Web Developer & Graphic Designer.
 
