@@ -1,7 +1,7 @@
 
 # Eyachir Arafat
 ## Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://avatars.githubusercontent.com/u/177961704?v=4))
 
 I am a Web Developer & Graphic Designer.
 
