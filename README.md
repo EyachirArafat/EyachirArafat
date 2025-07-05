@@ -1,96 +1,378 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQEkMOL-eZu6pA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736452535355?e=1741824000&v=beta&t=g7lZoABMIrFHnugRxcQEGuPo5LhdNOiTx8hsT8aWKrc)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(135deg,%23006aff,%23ff00cc)&height=200&section=header&text=Eyachir%20Arafat&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&fontWeight=700&fontFamily=Poppins" />
+</div>
 
-<div align="end">
-  <img src="https://komarev.com/ghpvc/?username=EyachirArafat&color=blue" alt="Profile Views" />
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <img alt="welcome-header" src="https://github.com/sindresorhus/sindresorhus/blob/5d9e05cf7afaf3b692ae83229df0c33b95ca1423/welcome-header.gif?raw=true">
+  <a href="https://linkedin.com/in/eyachirarafat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:me.eyachirarafat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://eyachirarafat.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/EzyonLabs" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/me.eyachirarafat" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
 
-<h1 align="center"><b>Eyachir Arafat</b></h1>
-<h3 align="center">Web Developer & Graphic Designer</h3>
+<br/>
+<br/>
 
-<p align="center">
-  <em>Passionate about crafting modern, responsive web applications and visually compelling designs.<br> With expertise in cutting-edge web technologies, I aim to deliver seamless user experiences.</em>
+<details>
+<summary>🖥️ $ <strong>whoami</strong> — Tap to expand</summary>
+
+```bash
+# Loading Eyachir Arafat's Developer Profile...
+
+> whoami
+Name:        Eyachir Arafat
+Role:        Web Developer & Entrepreneur
+Location:    Bangladesh
+Status:      Building something awesome...
+
+> ls ~/skills
+frontend/   backend/   design/   learning/
+
+> cat ~/current_status.log
+[AI]    Learning AI technologies & experimenting with LLMs
+[MCP]   Deploying & managing Minecraft MCP servers
+[API]   Exploring advanced backend & API design
+[ECOM]  Architecting a full-stack e-commerce platform
+
+
+> echo $CONTACT
+📧 me.eyachirarafat@gmail.com  
+🌐 https://eyachirarafat.vercel.app
+
+# [SYSTEM] EOF
+```
+</details>
+
+<br>
+<br>
+
+# ▷ Tech Arsenal
+
+<div align="center">
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/> -->
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br>Bootstrap
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<br>Prisma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="material-ui" />
+  <br>Material UI
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+  <br>Figma
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+  <br>Illustrator
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+  <br>Photoshop
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="bun" />
+  <br>Bun
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+  <br>NPM
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="yarn" />
+  <br>yarn
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="pnpm" />
+  <br>pnpm
+</td>
+</tr>
+</table>
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> -->
+</div>
+
+<br/>
+<br/>
+
+
+<!-- Projects Section -->
+
+# ▷ Featured Projects 
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
+### 💼 My Portfolio Preview
+
+<p>
+  <strong>Tech Stack:</strong>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="20" height="20" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" width="20" height="20" />
 </p>
 
----
+[![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://eyachirarafat.vercel.app/)
+[![Private Repo](https://img.shields.io/badge/🔒_Private-FF6B6B?style=for-the-badge)](javascript:void(0))
 
-### ✔️ Technologies I Work With
+</td>
+<td align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
+### 🏢 Corporate Business Website
+
+<p>
+  <strong>Tech Stack:</strong>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="20" height="20" />
 </p>
 
 
-### ✔️ Tools & Platforms 
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" alt="Bun" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
+[![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://tech-corp-sigma.vercel.app/)
+[![Private Repo](https://img.shields.io/badge/🔒_Private-FF6B6B?style=for-the-badge)](javascript:void(0))
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🌐 Language Styler Library
+
+<p>
+  <strong>Tech Stack:</strong>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="20" height="20" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" width="20" height="20" />
+</p>
+
+[![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://language-styler.vercel.app/)
+[![Private Repo](https://img.shields.io/badge/🔒_Private-FF6B6B?style=for-the-badge)](javascript:void(0))
+[![NPM](https://img.shields.io/badge/Package-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/language-styler)
+
+</td>
+<td align="center">
+
+### ✈️ Start Your Travel Blog
+
+<p>
+  <strong>Tech Stack:</strong>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="20" height="20" />
+</p>
+
+[![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://start-your-travel.vercel.app/)
+[![Private Repo](https://img.shields.io/badge/🔒_Private-FF6B6B?style=for-the-badge)](javascript:void(0))
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 📝 My Feedback Website
+
+<p>
+  <strong>Tech Stack:</strong>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="20" height="20" />
+  <img src="https://img.shields.io/badge/HeroUI-0EA5E9?style=flat&logoColor=white" alt="HeroUI" height="20" />
+</p>
+
+
+
+[![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://myfeedback-puce.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/EyachirArafat/My-Feedback)
+
+</td>
+<td align="center">
+
+### 🚨 Disasters Platform
+
+<p>
+  <strong>Tech Stack:</strong>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="20" height="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="20" height="20" />
+</p>
+
+[![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://disasters-plateform.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/EyachirArafat/Disasters-Plateform)
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+<br/>
+
+# ▷ NPM Packages
+<div align="center">
+  
+| Package | Description | Downloads | Version |
+|---------|-------------|-----------|---------|
+| [![NPM](https://img.shields.io/badge/language_styler-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/language-styler) | JavaScript library for detecting and styling multilingual text | ![npm](https://img.shields.io/npm/dt/language-styler) | ![npm](https://img.shields.io/npm/v/language-styler) |
+| [![NPM](https://img.shields.io/badge/use_smart_scroll-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/use-smart-scroll) | collection of React hooks, utilities for smart scroll handling, animations.. | ![npm](https://img.shields.io/npm/dt/use-smart-scroll) | ![npm](https://img.shields.io/npm/v/use-smart-scroll) |
+
+</div>
+
+<br/>
+<br/>
+
+# ▷ GitHub Analytics Dashboard
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EyachirArafat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EyachirArafat&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EyachirArafat&theme=tokyo-night&hide_border=true" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyachirArafat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%" />
+<img src="https://github-profile-trophy.vercel.app/?username=EyachirArafat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" width="53%" />
+
+</div>
+<br/>
+<br/>
+
+
+# ▷ Support My Work
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⭐ Star My Repos
+If you find my projects helpful, consider giving them a star!
+
+[![GitHub followers](https://img.shields.io/github/followers/EyachirArafat?style=for-the-badge&logo=github)](https://github.com/EyachirArafat)
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤝 Hire Me
+Available for freelance projects
+
+[![Hire Me](https://img.shields.io/badge/Hire_Me-00C851?style=for-the-badge&logo=upwork&logoColor=white)](mailto:your.email@gmail.com)
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+<br/>
+
+# ▷ Daily Motivation
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </a>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EyachirArafat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <p>
+    <strong>Thanks for visiting! Let's connect and build something amazing together!</strong>
   </p>
-
-
-### ✔️ **Connect With Me**
-<p align="center">
-  <a href="https://linkedin.com/in/eyachirarafat"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
- <a href="https://github.com/EyachirArafat"><img src="https://img.shields.io/badge/GitHub-Eyachir Arafat-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:me.eyachirarafat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
-
----
-
-### **🔍 What I’m Currently Learning**
-<p align="center">
-  <ul>
-    <li>Delving into <strong>Advanced JavaScript</strong> to enhance my ability to build dynamic and responsive web applications.</li>
-    <li>Mastering state management tools such as <strong>Redux</strong> and <strong>React Context API</strong> for seamless application development.</li>
-    <li>Exploring animation libraries like <strong>Framer Motion</strong> to create smooth and engaging user experiences.</li>
-  </ul>
-</p>
-
-### **🚀 Technologies I'm Exploring**
-<p align="center">
-  <ul>
-    <li><strong>GraphQL</strong> for data querying.</li>
-    <li><strong>Next.js</strong> for building fast, scalable React applications.</li>
-    <li><strong>Three.js</strong> for 3D web development.</li>
-  </ul>
-</p>
-
-### **🎨 Fun Facts About Me**
-<p align="center">
-  <ul>
-    <li>I enjoy crafting professional designs using tools like <strong>Adobe Illustrator</strong> and <strong>Photoshop</strong>.</li>
-    <li>I’m passionate about staying updated with the latest frameworks and libraries to continually grow as a developer.</li>
-  </ul>
-</p>
-
----
-
-  <img src="https://github-readme-stats.vercel.app/api?username=EyachirArafat&show_icons=true" alt="GitHub Stats" />
-<p >
-  <img src="https://streak-stats.demolab.com?user=EyachirArafat&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyachirArafat&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-<p align="center">
-  <em>If you liked what you see, feel free to</em> <a href="mailto:me.eyachirarafat@gmail.com"><b>Reach Out</b></a> <em>or explore my</em> <a href="https://github.com/EyachirArafat?tab=repositories"><b>Repositories</b></a>!
-</p>
-
-<p align="center">
-<strong>🚀 Built with passion and coffee ☕️</strong> <br>
-<em>© 2025 by <strong>Eyachir Arafat</strong> • All rights reserved.</em>
-</p>
-
----
-
-
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
