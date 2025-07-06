@@ -11,14 +11,14 @@
 </div>
 
 <div align="center">
+  <a href="https://eyachirarafat.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/eyachirarafat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:me.eyachirarafat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://eyachirarafat.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://x.com/EzyonLabs" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
@@ -206,7 +206,7 @@ frontend/   backend/   design/   learning/
 </p>
 
 [![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://eyachirarafat.vercel.app/)
-[![Private Repo](https://img.shields.io/badge/🔒_Private-FF6B6B?style=for-the-badge)](javascript:void(0))
+[![Private Repo](https://img.shields.io/badge/Private-FF6B6B?style=for-the-badge&logo=github)](javascript:void(0))
 
 </td>
 <td align="center">
@@ -222,7 +222,7 @@ frontend/   backend/   design/   learning/
 
 
 [![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://tech-corp-sigma.vercel.app/)
-[![Private Repo](https://img.shields.io/badge/🔒_Private-FF6B6B?style=for-the-badge)](javascript:void(0))
+[![Private Repo](https://img.shields.io/badge/Private-FF6B6B?style=for-the-badge&logo=github)](javascript:void(0))
 
 </td>
 </tr>
@@ -240,7 +240,7 @@ frontend/   backend/   design/   learning/
 </p>
 
 [![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://language-styler.vercel.app/)
-[![Private Repo](https://img.shields.io/badge/🔒_Private-FF6B6B?style=for-the-badge)](javascript:void(0))
+[![Private Repo](https://img.shields.io/badge/Private-FF6B6B?style=for-the-badge&logo=github)](javascript:void(0))
 [![NPM](https://img.shields.io/badge/Package-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/language-styler)
 
 </td>
@@ -256,7 +256,7 @@ frontend/   backend/   design/   learning/
 </p>
 
 [![View Live](https://img.shields.io/badge/🌐_Live_Site-4285F4?style=for-the-badge)](https://start-your-travel.vercel.app/)
-[![Private Repo](https://img.shields.io/badge/🔒_Private-FF6B6B?style=for-the-badge)](javascript:void(0))
+[![Private Repo](https://img.shields.io/badge/Private-FF6B6B?style=for-the-badge&logo=github)](javascript:void(0))
 
 </td>
 </tr>
