@@ -346,7 +346,7 @@ If you find my projects helpful, consider giving them a star!
 ### 🤝 Hire Me
 Available for freelance projects
 
-[![Hire Me](https://img.shields.io/badge/Hire_Me-00C851?style=for-the-badge&logo=upwork&logoColor=white)](mailto:your.email@gmail.com)
+[![Hire Me](https://img.shields.io/badge/Hire_Me-00C851?style=for-the-badge&logo=upwork&logoColor=white)](mailto:me.eyachirarafat@gmail.com)
 
 </td>
 </tr>
